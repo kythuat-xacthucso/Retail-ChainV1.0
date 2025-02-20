@@ -70,6 +70,7 @@ export const login = async (username: string, password: string) => {
     userToken: '',
     userName: username,
     password: password,
+    
     telegramId: '',
     zaloId: '',
     phone: '',
